@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ac839f8-f92f-4185-b1d1-08905e0f0758": {
+      "ProjectGuid": "8ac839f8-f92f-4185-b1d1-08905e0f0758",
+      "DisplayName": "Vulkan_GE",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
